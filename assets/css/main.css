@@ -50,10 +50,10 @@ section{
 	padding: 05px;
 }
 
-.img_1, 
-.img_2,
-.img_3,
-.img_4{
+#img_1, 
+#img_2,
+#img_3,
+#img_4{
 	width: 300px;
 	height: 180px;
 }
